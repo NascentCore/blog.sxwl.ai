@@ -1,17 +1,5 @@
-endi:
-  name: 作者1
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: 作者2
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: 作者3
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+sxwl:
+  name: 算想未来
+  title: 算想未来
+  url: https://github.com/NascentCore
+  image_url: https://avatars.githubusercontent.com/u/58156122?s=200&v=4

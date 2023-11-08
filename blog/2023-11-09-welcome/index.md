@@ -2,8 +2,8 @@
 slug: welcome
 title: 对话算想未来创始人
 description: 对话算想未来创始人（前 Google AI 算力平台工程师）赵亚雄：希望做“为中国 AI 经济而生的 AWS”
-authors: [yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [sxwl]
+tags: [sxwl]
 ---
 
 ChatGPT 爆火，引得全世界为之疯狂，恍惚中一夜之间，人人都在讨论 ChatGPT，所有大佬和资本纷纷涌进大模型。
