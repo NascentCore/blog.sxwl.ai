@@ -2,8 +2,8 @@
 slug: why-sxwl-ai
 title: 我们为什么做算想云？
 description: 介绍算想团队做算想云的初衷
-authors: [sxwl]
-tags: [sxwl]
+authors: [zyx]
+tags: [算想云]
 ---
 
 距离算想云（llm.sxwl.ai）正式上线倒计时 3 天
