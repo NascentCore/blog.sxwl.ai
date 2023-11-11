@@ -19,7 +19,10 @@ tags: [算想云]
 
 ## “AlphaGo’s victory inspired a new era of AI systems”
 
-![AlphGo-LeeSedol](./lee_sedol.png)
+<div style={{'text-align': 'center'}}>
+    <img src={require('./lee_sedol.png').default} style={{width: 400}} />
+    <p style={{fontSize:12}}>AlphGo-LeeSedol</p>
+</div>
 
 2016 年，人类不可避免的为自己创造了超越自己的后继者，正如每一对父母消耗自己来
 塑造下一代。
@@ -42,7 +45,11 @@ Underdog。
 
 ## Underdog
 
-![why-mr-anderson](./mr_anderson.png)
+<!-- ![why-mr-anderson](./mr_anderson.png) -->
+<div style={{'text-align': 'center'}}>
+    <img src={require('./mr_anderson.png').default} style={{width: 400}} />
+    <p style={{fontSize:12}}>AlphGo-LeeSedol</p>
+</div>
 
 我的人生经历数不胜数的不公；其中最令我愤怒的，发生在我最得意的时刻：
 
@@ -70,7 +77,11 @@ Underdog。
 
 ## 望价兴叹的大模型看客
 
-![llm-bystander](./llm_bystander.png)
+<!-- ![llm-bystander](./llm_bystander.png) -->
+<div style={{'text-align': 'center'}}>
+    <img src={require('./llm_bystander.png').default} style={{width: 400}} />
+    <p style={{fontSize:12}}>AlphGo-LeeSedol</p>
+</div>
 
 2018 年 OpenAI 以同样碾压的优势击败了 Dota2 人类世界冠军
 OG；我并不伤感，因为当年的 underdog 是 LGD。
@@ -86,7 +97,7 @@ Five；只是让我在热潮之初，回忆起 2018 年末、2020 年初两次�
 2020 年，我带着 Infrastructure for non-NVIDIA AI chips
 的概念，拿着几十页纸的商业计划书参加了苏州某知名工业园区的路演大赛；
 并随后成功说服了 Wave Computing （硅谷 Santa Clara）资深销售总监展开合作；
-但很快Wave Computing 的可重构 AI 芯片流片失败、破产；后来我也明白，
+但很快 Wave Computing 的可重构 AI 芯片流片失败、破产；后来我也明白，
 政府园区的路演，背后的胜出者，早已内定。
 
 2023 年，倒卖 GPU 的代理商们骚扰我的微信，算力开支让满怀理想的公司捉襟见肘、
