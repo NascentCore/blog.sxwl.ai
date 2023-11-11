@@ -4,13 +4,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '算想未来 SXWL.AI',
-  tagline: '算想未来博客',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-site.example.com',
+  url: 'https://blog.sxwl.ai',
   baseUrl: '/',
-  organizationName: '算想未来',
-  projectName: '算想未来博客',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,7 +50,7 @@ const config: Config = {
 
       items: [
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/NascentCore/docs.sxwl.ai/tree/main/',
           label: 'GitHub',
           position: 'right',
         },
