@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '算想未来博客',
+  title: '算想未来 SXWL.AI',
   tagline: '算想未来博客',
   favicon: 'img/favicon.ico',
 
