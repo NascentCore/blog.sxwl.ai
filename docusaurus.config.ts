@@ -28,7 +28,7 @@ const config: Config = {
         blog: {
           showReadingTime: false,
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/NascentCore/blog.sxwl.ai/tree/main/',
           blogSidebarCount: 10,
           blogSidebarTitle: '最近更新',
         },
