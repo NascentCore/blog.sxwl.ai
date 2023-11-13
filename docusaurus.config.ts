@@ -50,7 +50,7 @@ const config: Config = {
 
       items: [
         {
-          href: 'https://github.com/NascentCore/docs.sxwl.ai/tree/main/',
+          href: 'https://github.com/NascentCore/blog.sxwl.ai',
           label: 'GitHub',
           position: 'right',
         },
