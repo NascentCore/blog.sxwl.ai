@@ -3,7 +3,7 @@
 slug: llm-sxwl-ai-public-launch
 title: 【上线公告】算想云：大模型算力价格比公有云低 60%
 description: 算想云上线公告
-authors: [lh]
+authors: [zyx]
 tags: [算想云]
 ---
 
